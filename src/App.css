@@ -90,3 +90,13 @@ body, html {
   position: static;
   opacity: 1;
 }
+
+.copyright {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 12px;
+  opacity: 0.7;
+}

@@ -11,6 +11,7 @@ function App() {
                 <div className="text-container">
                     <p className="tagline">Who You Are, Finally Yours</p>
                 </div>
+                <p className="copyright">© 2025 Sphyre. All rights reserved.</p>
             </header>
         </div>
     );
